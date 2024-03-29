@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Systems Engineering student based
 
 ## Featured Projects
 - 🚀 Currently working on a personal project using React and Golang to build an interactive web application.
-- 🔧 Contributed to several open-source projects, including improvements in documentation and bug fixes.
-- 📝 Maintain a technical blog where I share tutorials and tips on software development.
 
 ## Contact
 If you're interested in connecting with me or collaborating on a project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/harold-revueltas-gomez/)!
