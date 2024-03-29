@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Systems Engineering student based
 - 🤝 I'm open to collaborating on interesting and challenging projects.
 
 ## Skills
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## Featured Projects
 - 🚀 Currently working on a personal project using React and Golang to build an interactive web application.
