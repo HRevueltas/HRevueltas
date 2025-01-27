@@ -1,6 +1,6 @@
 # Hi there! I'm Harold 
 
-Welcome to my GitHub profile! I'm a passionate Systems Engineering student based in Colombia, and this is where I share some of my projects and learnings in the world of programming.
+Welcome to my GitHub profile! I'm a passionate Systems Engineering student and Fullstack Developer based in Colombia.
 
 ## About Me
 - 🎓 Currently pursuing a degree in Systems Engineering.
