@@ -1,6 +1,6 @@
 # Hi there! I'm Harold 
 
-Welcome to my GitHub profile! I'm a passionate Systems Engineering student and Fullstack Developer based in Colombia.
+I'm a Systems Engineering student and Fullstack Developer based in Colombia.
 
 ## About Me
 - 🎓 Currently pursuing a degree in Systems Engineering.
@@ -15,6 +15,3 @@ Welcome to my GitHub profile! I'm a passionate Systems Engineering student and F
 
 ## Contact
 If you're interested in connecting with me or collaborating on a project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/harold-revueltas-gomez/)!
-
-<!---------------------------------  Marquee Animation  ------------------------>
-<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
